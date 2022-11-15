@@ -1,0 +1,21 @@
+.imgStyleDriver{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+.color{
+    background-color: rgb(34, 34, 153);
+    color: whitesmoke;
+    margin: 20px 10px;
+    border-radius: 20px;
+    
+}
+.dcardFlex{
+    display:flex;
+    flex-direction: row; 
+    flex-wrap: nowrap; 
+    justify-content: center;
+    padding: 20px 10px;
+    gap:40px 
+
+}

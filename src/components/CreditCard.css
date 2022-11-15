@@ -1,0 +1,14 @@
+h3{
+    text-align: left;
+}
+.imgStyle{
+    width: 50px;
+}
+.card-style{
+    border: none;
+    border-radius: 6px;
+    padding: 2px 2px;
+    margin: 10px 10px;
+    text-align: center;
+
+}
